@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d92bc8c2-594e-42e2-bfe7-fae1ea27294b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dem_so_chanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dem_so_chanTestDongDuLieu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dem_so_chanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dem_so_chanTestDongDieuKhien.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +47,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "create.test.in.the.same.root": "true"
+    "create.test.in.the.same.root": "true",
+    "last_opened_file_path": "/Users/trananhdung/Workspace/Học tập/Java/Kiểm thử/dem_so_chan"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -68,8 +58,11 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.dem_so_chanTest">
+  <component name="RunManager" selected="JUnit.dem_so_chanTestDongDieuKhien">
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main" />
       <module name="dem_so_chan" />
@@ -77,19 +70,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dem_so_chanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="dem_so_chanTestDongDieuKhien" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="dem_so_chan" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="dem_so_chanTest" />
+      <option name="MAIN_CLASS_NAME" value="dem_so_chanTestDongDieuKhien" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dem_so_chanTest.testCaseR1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="dem_so_chanTestDongDieuKhien.testCaseR1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="dem_so_chan" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="dem_so_chanTest" />
+      <option name="MAIN_CLASS_NAME" value="dem_so_chanTestDongDieuKhien" />
       <option name="METHOD_NAME" value="testCaseR1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -98,8 +91,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.dem_so_chanTest" />
-        <item itemvalue="JUnit.dem_so_chanTest.testCaseR1" />
+        <item itemvalue="JUnit.dem_so_chanTestDongDieuKhien" />
+        <item itemvalue="JUnit.dem_so_chanTestDongDieuKhien.testCaseR1" />
         <item itemvalue="Application.main" />
       </list>
     </recent_temporary>

@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class dem_so_chanTest {
+class dem_so_chanTestDongDieuKhien {
     @Test
     void testCase1() {
         main demSoChan = new main();
